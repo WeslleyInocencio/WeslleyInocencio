@@ -3,7 +3,7 @@
   Olá, seja bem-vindo ao meu GitHub! &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/ola.gif" width="40px" />
 </h1>
-<img src = "GIF/banner_800px.gif" width = "450px" align = "right">
+<img src = "GIF/banner_800px.gif" width = "600px" align = "right">
 
 <br/>
 
