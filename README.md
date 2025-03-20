@@ -73,8 +73,8 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyInocencio&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslleyInocencio&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyInocencio&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=WeslleyInocencio&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&include_all_commits=true&count_private=true"/>
 </div>
 
 </details>
