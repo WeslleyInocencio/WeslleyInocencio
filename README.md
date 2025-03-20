@@ -71,12 +71,15 @@
 </summary>
 <br/>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WeslleyInocencio&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyInocencio&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact"/>
-</p>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyInocencio&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WeslleyInocencio&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&include_all_commits=true&count_private=true"/>
+</div>
+
 </details>
 <br/>
+
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](GIF/github-contribution-grid-snake.svg)
 
